@@ -189,7 +189,7 @@ export default function Home() {
     if (password === validPassword) {
       setIsAuthenticated(true);
     } else {
-      setError('Contraseña incorrecta. Prueba: albendiego');
+      setError('Contraseña incorrecta');
     }
   };
 
