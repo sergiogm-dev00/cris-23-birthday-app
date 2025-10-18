@@ -228,17 +228,17 @@ export default function Home() {
   const chapters = [
     {
       number: "Capítulo 1",
-      coordinates: "39°28&apos;52.8&quot;N 0°21&apos;20.7&quot;W",
+      coordinates: `39°28'52.8"N 0°21'20.7"W`,
       hint: "Persigue la luz💡"
     },
     {
       number: "Capítulo 2", 
-      coordinates: "39°28&apos;50.5&quot;N 0°22&apos;03.8&quot;W",
+      coordinates: `39°28'50.5"N 0°22'03.8"W`,
       hint: "Nos cerraron las puertas y... 🚪"
     },
     {
       number: "Capítulo 3",
-      coordinates: "39°27&apos;59.3&quot;N 0°22&apos;51.8&quot;W", 
+      coordinates: `39°27'59.3"N 0°22'51.8"W`, 
       hint: "Soy el chico más feliz del mundo desde ese día"
     }
   ];
